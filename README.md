@@ -14,13 +14,16 @@ Dataset Link: https://www.kaggle.com/datasets/thedagger/pokemon-generation-one
 
 The dataset consists of 151 pokemons, with 60 images each per pokemon. Out of these 151 pokemons, 7 classes were selected for analysis.
 
+## Project Paper:
+Paper Link: https://github.com/shivaniNK8/Class-Activation-Map-CAM-and-Grad-CAM/blob/main/CAM_Final_Report.pdf
+
 ## Result Images:
-### Combined Results of AlexNet, VGG 16 CAM and VGG19 Grad-CAM
+#### Combined Results of AlexNet, VGG 16 CAM and VGG19 Grad-CAM
 <img src="https://github.com/shivaniNK8/Class-Activation-Map-CAM-and-Grad-CAM/blob/main/images/combine_cam.png" width=50% height=50%>
 
-### Alexnet CAM Results
+#### Alexnet CAM Results
 <img src="https://github.com/shivaniNK8/Class-Activation-Map-CAM-and-Grad-CAM/blob/main/images/alex_cam.png" width=50% height=50%>
 
-### VGG16 CAM Results
+#### VGG16 CAM Results
 <img src="https://github.com/shivaniNK8/Class-Activation-Map-CAM-and-Grad-CAM/blob/main/images/vgg_cam.png" width=50% height=50%>
 
