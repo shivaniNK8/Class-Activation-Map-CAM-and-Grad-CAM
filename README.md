@@ -12,3 +12,4 @@ The dataset consists of 151 pokemons, with 60 images each per pokemon. Out of th
 
 ## Result Images:
 
+![Alexnet CAM] (images/alex_cam.png)
